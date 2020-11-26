@@ -3,8 +3,8 @@
 package identity
 
 import (
-	"github.com/iotaledger/hive.go/crypto/ed25519"
-	"github.com/iotaledger/hive.go/marshalutil"
+	"github.com/massyu/hive.go/crypto/ed25519"
+	"github.com/massyu/hive.go/marshalutil"
 )
 
 // LocalIdentity is a node's identity.

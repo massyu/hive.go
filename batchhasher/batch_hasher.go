@@ -4,8 +4,8 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/iotaledger/hive.go/batchworkerpool"
-	"github.com/iotaledger/hive.go/ternary_mux"
+	"github.com/massyu/hive.go/batchworkerpool"
+	"github.com/massyu/hive.go/ternary_mux"
 
 	"github.com/iotaledger/iota.go/trinary"
 )

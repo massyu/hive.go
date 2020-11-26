@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/iotaledger/hive.go/daemon"
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/massyu/hive.go/daemon"
+	"github.com/massyu/hive.go/typeutils"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -1,7 +1,7 @@
 package network
 
 import (
-	"github.com/iotaledger/hive.go/events"
+	"github.com/massyu/hive.go/events"
 )
 
 type ManagedConnectionEvents struct {

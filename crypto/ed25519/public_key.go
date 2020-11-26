@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/iotaledger/hive.go/marshalutil"
+	"github.com/massyu/hive.go/marshalutil"
 	"github.com/mr-tron/base58"
 	"github.com/oasisprotocol/ed25519"
 )

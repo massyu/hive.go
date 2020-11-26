@@ -6,10 +6,10 @@ import (
 	"math"
 	"testing"
 
-	"github.com/iotaledger/hive.go/events"
-	"github.com/iotaledger/hive.go/protocol"
-	"github.com/iotaledger/hive.go/protocol/message"
-	"github.com/iotaledger/hive.go/protocol/tlv"
+	"github.com/massyu/hive.go/events"
+	"github.com/massyu/hive.go/protocol"
+	"github.com/massyu/hive.go/protocol/message"
+	"github.com/massyu/hive.go/protocol/tlv"
 	"github.com/stretchr/testify/assert"
 )
 

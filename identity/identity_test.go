@@ -4,7 +4,7 @@ import (
 	"crypto/sha256"
 	"testing"
 
-	"github.com/iotaledger/hive.go/crypto/ed25519"
+	"github.com/massyu/hive.go/crypto/ed25519"
 	"github.com/mr-tron/base58"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

@@ -3,9 +3,9 @@ package discover
 import (
 	"testing"
 
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/autopeering/peer/peertest"
-	"github.com/iotaledger/hive.go/identity"
+	"github.com/massyu/hive.go/autopeering/peer"
+	"github.com/massyu/hive.go/autopeering/peer/peertest"
+	"github.com/massyu/hive.go/identity"
 	"github.com/stretchr/testify/assert"
 )
 

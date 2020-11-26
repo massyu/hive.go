@@ -3,8 +3,8 @@ package node
 import (
 	"sync"
 
-	"github.com/iotaledger/hive.go/daemon"
-	"github.com/iotaledger/hive.go/logger"
+	"github.com/massyu/hive.go/daemon"
+	"github.com/massyu/hive.go/logger"
 )
 
 var (

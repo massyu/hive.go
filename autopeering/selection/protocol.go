@@ -8,14 +8,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/autopeering/salt"
-	pb "github.com/iotaledger/hive.go/autopeering/selection/proto"
-	"github.com/iotaledger/hive.go/autopeering/server"
-	"github.com/iotaledger/hive.go/backoff"
-	"github.com/iotaledger/hive.go/identity"
-	"github.com/iotaledger/hive.go/logger"
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/massyu/hive.go/autopeering/peer"
+	"github.com/massyu/hive.go/autopeering/salt"
+	pb "github.com/massyu/hive.go/autopeering/selection/proto"
+	"github.com/massyu/hive.go/autopeering/server"
+	"github.com/massyu/hive.go/backoff"
+	"github.com/massyu/hive.go/identity"
+	"github.com/massyu/hive.go/logger"
+	"github.com/massyu/hive.go/typeutils"
 	"google.golang.org/protobuf/proto"
 )
 

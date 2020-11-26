@@ -1,7 +1,7 @@
 package events
 
 import (
-	"github.com/iotaledger/hive.go/syncutils"
+	"github.com/massyu/hive.go/syncutils"
 )
 
 type Event struct {

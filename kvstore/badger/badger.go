@@ -4,9 +4,9 @@ import (
 	"sync"
 
 	"github.com/dgraph-io/badger/v2"
-	"github.com/iotaledger/hive.go/byteutils"
-	"github.com/iotaledger/hive.go/kvstore"
-	"github.com/iotaledger/hive.go/types"
+	"github.com/massyu/hive.go/byteutils"
+	"github.com/massyu/hive.go/kvstore"
+	"github.com/massyu/hive.go/types"
 )
 
 // KVStore implements the KVStore interface around a BadgerDB instance.

@@ -10,7 +10,7 @@ import (
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/iotaledger/hive.go/parameter"
+	"github.com/massyu/hive.go/parameter"
 )
 
 const (

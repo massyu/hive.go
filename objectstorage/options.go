@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/iotaledger/hive.go/kvstore"
+	"github.com/massyu/hive.go/kvstore"
 	"github.com/mr-tron/base58"
 )
 

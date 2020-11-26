@@ -4,10 +4,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/iotaledger/hive.go/autopeering/distance"
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/autopeering/peer/peertest"
-	"github.com/iotaledger/hive.go/autopeering/salt"
+	"github.com/massyu/hive.go/autopeering/distance"
+	"github.com/massyu/hive.go/autopeering/peer"
+	"github.com/massyu/hive.go/autopeering/peer/peertest"
+	"github.com/massyu/hive.go/autopeering/salt"
 	"github.com/stretchr/testify/assert"
 )
 

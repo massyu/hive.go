@@ -3,8 +3,8 @@ package discover
 import (
 	"fmt"
 
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/identity"
+	"github.com/massyu/hive.go/autopeering/peer"
+	"github.com/massyu/hive.go/identity"
 	"go.uber.org/atomic"
 )
 

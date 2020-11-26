@@ -4,7 +4,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/iotaledger/hive.go/byteutils"
+	"github.com/massyu/hive.go/byteutils"
 )
 
 type syncedKVMap struct {

@@ -1,7 +1,7 @@
 package syncutils_test
 
 import (
-	"github.com/iotaledger/hive.go/syncutils"
+	"github.com/massyu/hive.go/syncutils"
 	"testing"
 )
 

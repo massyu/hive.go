@@ -3,7 +3,7 @@ package kvstore
 import (
 	"errors"
 
-	"github.com/iotaledger/hive.go/bitmask"
+	"github.com/massyu/hive.go/bitmask"
 )
 
 var (

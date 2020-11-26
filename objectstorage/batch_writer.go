@@ -5,9 +5,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/iotaledger/hive.go/kvstore"
-	"github.com/iotaledger/hive.go/syncutils"
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/massyu/hive.go/kvstore"
+	"github.com/massyu/hive.go/syncutils"
+	"github.com/massyu/hive.go/typeutils"
 )
 
 const (

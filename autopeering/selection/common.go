@@ -3,8 +3,8 @@ package selection
 import (
 	"time"
 
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/logger"
+	"github.com/massyu/hive.go/autopeering/peer"
+	"github.com/massyu/hive.go/logger"
 )
 
 // Default values for the global parameters

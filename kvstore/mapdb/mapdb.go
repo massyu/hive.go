@@ -6,9 +6,9 @@ package mapdb
 import (
 	"sync"
 
-	"github.com/iotaledger/hive.go/byteutils"
-	"github.com/iotaledger/hive.go/kvstore"
-	"github.com/iotaledger/hive.go/types"
+	"github.com/massyu/hive.go/byteutils"
+	"github.com/massyu/hive.go/kvstore"
+	"github.com/massyu/hive.go/types"
 )
 
 // mapDB is a simple implementation of KVStore using a map.

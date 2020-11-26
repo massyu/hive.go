@@ -1,9 +1,9 @@
 package lru_cache
 
 import (
-	"github.com/iotaledger/hive.go/list"
-	"github.com/iotaledger/hive.go/syncutils"
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/massyu/hive.go/list"
+	"github.com/massyu/hive.go/syncutils"
+	"github.com/massyu/hive.go/typeutils"
 )
 
 type lruCacheElement struct {

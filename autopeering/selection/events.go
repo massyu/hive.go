@@ -1,10 +1,10 @@
 package selection
 
 import (
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/autopeering/salt"
-	"github.com/iotaledger/hive.go/events"
-	"github.com/iotaledger/hive.go/identity"
+	"github.com/massyu/hive.go/autopeering/peer"
+	"github.com/massyu/hive.go/autopeering/salt"
+	"github.com/massyu/hive.go/events"
+	"github.com/massyu/hive.go/identity"
 )
 
 // Events contains all the events that are triggered during the neighbor selection.

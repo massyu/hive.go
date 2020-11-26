@@ -1,7 +1,7 @@
 package logger
 
 import (
-	"github.com/iotaledger/hive.go/events"
+	"github.com/massyu/hive.go/events"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

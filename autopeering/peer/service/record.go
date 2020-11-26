@@ -3,7 +3,7 @@ package service
 import (
 	"fmt"
 
-	pb "github.com/iotaledger/hive.go/autopeering/peer/service/proto"
+	pb "github.com/massyu/hive.go/autopeering/peer/service/proto"
 	"google.golang.org/protobuf/proto"
 )
 

@@ -1,7 +1,7 @@
 package batchhasher_test
 
 import (
-	"github.com/iotaledger/hive.go/batchhasher"
+	"github.com/massyu/hive.go/batchhasher"
 	"sync"
 	"testing"
 
