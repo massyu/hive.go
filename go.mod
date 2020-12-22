@@ -6,7 +6,7 @@ require (
 	github.com/dgraph-io/badger/v2 v2.0.3
 	github.com/golang/protobuf v1.4.2
 	github.com/gorilla/websocket v1.4.2
-	github.com/massyu/iota.go v1.0.0-beta.17
+	github.com/massyu/iota.go v1.0.0-beta.18
 	github.com/kr/text v0.2.0
 	github.com/mr-tron/base58 v1.2.0
 	github.com/oasisprotocol/ed25519 v0.0.0-20200528083105-55566edd6df0
