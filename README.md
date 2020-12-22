@@ -49,7 +49,7 @@ To install Hive.go and its dependencies, you can use one of the following option
     import (
     "github.com/massyu/hive.go/logger"
     "github.com/massyu/hive.go/node"
-    "github.com/iotaledger/iota.go/trinary"
+    "github.com/massyu/iota.go/trinary"
     )
     ```
 

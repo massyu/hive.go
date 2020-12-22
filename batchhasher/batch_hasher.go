@@ -7,7 +7,7 @@ import (
 	"github.com/massyu/hive.go/batchworkerpool"
 	"github.com/massyu/hive.go/ternary_mux"
 
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/massyu/iota.go/trinary"
 )
 
 const (
